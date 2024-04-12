@@ -48,7 +48,7 @@ You can easily customize the architecture of the Convolutional Neural Network (C
 To modify these hyperparameters, simply update the corresponding values in the sweep_config file. By experimenting with different combinations of these parameters, you can explore the model's behavior and performance across various configurations.
 ## 6 Link to Report
 
-The wandb report is available [here](insert_link).
+The wandb report is available [here](https://wandb.ai/cs23m021/DL_Assignment_2/reports/CS6910-Assignment-2--Vmlldzo3NTA4NjE5).
 
 ## 7 Acknowledgements
 
