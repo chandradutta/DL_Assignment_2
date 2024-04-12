@@ -8,11 +8,11 @@
 - PIL: Python Imaging Library, used for image processing.
 - numpy: Library for numerical computing.
 
-# 2 Convolutional Neural Network (CNN) for Image Classification
+# 2 CNN for image classification
 
 This repository contains a PyTorch implementation of a Convolutional Neural Network (CNN) for image classification tasks. The CNN architecture is defined in the `ConvNetwork` class within the `conv_network.py` file.
 
-## 3ConvNetwork Class
+## 3 ConvNetwork Class
 
 The `ConvNetwork` class defines a CNN architecture with configurable parameters for flexibility in model design. Here's a brief overview of the class structure:
 
@@ -28,7 +28,7 @@ The `ConvNetwork` class defines a CNN architecture with configurable parameters 
 
 - **Activation Functions:** The `_get_activation_function` method returns the appropriate activation function based on the input argument.
 
-## 4Usage
+## 4 Usage
 
 1. **Instantiate the Model:** Create an instance of the `ConvNetwork` class, specifying the desired configuration parameters.
 
