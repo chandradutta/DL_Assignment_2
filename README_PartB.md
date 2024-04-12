@@ -1,4 +1,4 @@
-## 1. Libraries Used
+## 1 Libraries Used
 - Wandb: Used for experiment tracking and visualization.
 - PyTorch: Deep learning framework for building and training the CNN model.
 - torchvision: Provides datasets, models, and transformations for computer vision tasks.
@@ -9,7 +9,7 @@
 
 ## 2 RESNET50 Function
 
-This repository contains a Python function `RESNET50_1` that returns a ResNet50 model with the option to freeze the first `k` layers. This function can be useful when you want to fine-tune a pre-trained ResNet50 model on a specific task while keeping some of the initial layers fixed.
+This repository contains a Python function `RESNET50` that returns a ResNet50 model with the option to freeze the first `k` layers. This function can be useful when you want to fine-tune a pre-trained ResNet50 model on a specific task while keeping some of the initial layers fixed.
 
 ## 3 Purpose
 
