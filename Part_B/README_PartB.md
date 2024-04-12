@@ -28,3 +28,16 @@ It returns a ResNet50 model with the specified number of initial layers frozen a
 k = 10
 NUM_OF_CLASSES = 1000
 resnet_model = RESNET50_1(k, NUM_OF_CLASSES)
+## 6 Link to Report
+
+The wandb report is available [here](https://wandb.ai/cs23m021/DL_Assignment_2/reports/CS6910-Assignment-2--Vmlldzo3NTA4NjE5).
+
+## 7 Acknowledgements
+
+For the most of assignment, I have referred the lecture slides of Dr. Mitesh Khapra, Indian Institute of Technology Madras: [CS6910 Lecture Slides](http://cse.iitm.ac.in/~miteshk/CS6910.html#schedule)
+
+Special thanks to:
+- [GitHub](https://github.com/)
+- [Weights & Biases (wandb)](https://wandb.ai)
+
+These resources were invaluable in the development and understanding of the assignment.
