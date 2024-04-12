@@ -24,7 +24,6 @@ The `RESNET50` function takes two arguments:
 It returns a ResNet50 model with the specified number of initial layers frozen and a custom fully connected layer with the specified number of output classes. The function achieves this by loading the pre-trained ResNet50 model, setting the `requires_grad` attribute to `False` for the first `k` layers to freeze them, and replacing the final fully connected layer with a new one suitable for the given task.
 
 ## 5 Usage
-```python
 k = 10
 NUM_OF_CLASSES = 1000
 resnet_model = RESNET50_1(k, NUM_OF_CLASSES)
