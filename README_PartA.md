@@ -46,3 +46,17 @@ You can easily customize the architecture of the Convolutional Neural Network (C
 - **Activation Function:** The activation function introduces non-linearity into the network, enabling it to learn complex patterns from the input data. You can choose from various activation functions such as ReLU, GELU, SiLU (Sigmoid Linear Unit), or Mish, each offering different properties and performance characteristics.
 
 To modify these hyperparameters, simply update the corresponding values in the sweep_config file. By experimenting with different combinations of these parameters, you can explore the model's behavior and performance across various configurations.
+## 6 Link to Report
+
+The wandb report is available [here](insert_link).
+
+## 7 Acknowledgements
+
+For the most of project, we referred the lecture slides of Dr. Mitesh Khapra, Indian Institute of Technology Madras: [CS6910 Lecture Slides](http://cse.iitm.ac.in/~miteshk/CS6910.html#schedule)
+
+Special thanks to:
+- [GitHub](https://github.com/)
+- [Weights & Biases (wandb)](https://wandb.ai)
+
+These resources were invaluable in the development and understanding of the assignment.
+
