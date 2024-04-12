@@ -52,7 +52,7 @@ The wandb report is available [here](insert_link).
 
 ## 7 Acknowledgements
 
-For the most of project, we referred the lecture slides of Dr. Mitesh Khapra, Indian Institute of Technology Madras: [CS6910 Lecture Slides](http://cse.iitm.ac.in/~miteshk/CS6910.html#schedule)
+For the most of assignment, I have referred the lecture slides of Dr. Mitesh Khapra, Indian Institute of Technology Madras: [CS6910 Lecture Slides](http://cse.iitm.ac.in/~miteshk/CS6910.html#schedule)
 
 Special thanks to:
 - [GitHub](https://github.com/)
