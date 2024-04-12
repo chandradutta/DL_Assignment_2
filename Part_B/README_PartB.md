@@ -28,6 +28,7 @@ It returns a ResNet50 model with the specified number of initial layers frozen a
 k = 10
 NUM_OF_CLASSES = 1000
 resnet_model = RESNET50_1(k, NUM_OF_CLASSES)
+
 ## 6 Link to Report
 
 The wandb report is available [here](https://wandb.ai/cs23m021/DL_Assignment_2/reports/CS6910-Assignment-2--Vmlldzo3NTA4NjE5).
