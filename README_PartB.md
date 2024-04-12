@@ -7,7 +7,7 @@
 - PIL: Python Imaging Library, used for image processing.
 - numpy: Library for numerical computing.
 
-  # RESNET50_1 Function
+ ## RESNET50 Function
 
 This repository contains a Python function `RESNET50_1` that returns a ResNet50 model with the option to freeze the first `k` layers. This function can be useful when you want to fine-tune a pre-trained ResNet50 model on a specific task while keeping some of the initial layers fixed.
 
